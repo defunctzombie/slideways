@@ -1,0 +1,11 @@
+form {
+  width: 400px;
+  padding: 20px;
+  margin: auto;
+  border: 2px solid rgb(40,40,120);
+  border-radius: 10px;
+}
+
+#slider {
+  display: inline-block;
+}
