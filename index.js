@@ -1,4 +1,5 @@
 var hyperglue = require('hyperglue');
+var process = require('process');
 var EventEmitter = require('events').EventEmitter;
 var html = require('./static/html');
 var css = require('./static/css');
